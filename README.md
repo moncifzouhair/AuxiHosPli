@@ -1,6 +1,6 @@
-# 🚀AuxiHosPli
+# AuxiHosPli
 
-## 👥 Équipe du projet
+##  Équipe du projet
 
 - 👤 Moncif Zouhair
 - 👤 Basma bouaou
